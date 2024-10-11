@@ -1,0 +1,6 @@
+@ThuVierApi_HostAddress = http://localhost:5096
+
+GET {{ThuVierApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
